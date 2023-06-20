@@ -1,0 +1,1 @@
+pub const API_KEY: &'static str = "512cc6d621d138465fbd0d68da46d815";
